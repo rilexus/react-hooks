@@ -1,7 +1,8 @@
 {
-  "name": "@react-hooks/use-scroll-lerp",
+  "name": "@rilexus/use-scroll-lerp",
   "version": "1.0.1",
   "main": "dist/index.js",
+  "private": false,
   "types": "dist/types/use-scroll-lerp/index.d.ts",
   "description": "",
   "scripts": {
@@ -21,5 +22,6 @@
     "react": "^17.0.2"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "e037db4448fbd921b588fc6be0c9194949264cec"
 }
