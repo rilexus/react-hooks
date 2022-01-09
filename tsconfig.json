@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "packages/use-scroll-lerp/tsconfig.ref.json"
+    },
+    {
+      "path": "packages/use-scroll-position/tsconfig.ref.json"
+    }
+  ]
+}

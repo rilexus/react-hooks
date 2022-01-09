@@ -1,0 +1,25 @@
+{
+  "name": "@react-hooks/use-scroll-lerp",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/types/use-scroll-lerp/index.d.ts",
+  "description": "",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "tsc:watch": "tsc --watch",
+    "build:types": "tsc --build"
+  },
+  "dependencies": {
+    "@react-hooks/use-scroll-position": "*",
+    "eases": "^1.0.8"
+  },
+  "devDependencies": {
+    "@types/eases": "^1.0.2"
+  },
+  "peerDependencies": {
+    "@types/react": "^17.0.38",
+    "react": "^17.0.2"
+  },
+  "author": "",
+  "license": "MIT"
+}
